@@ -12,11 +12,11 @@ amount		  integer
 
 customer_contracts Example Input:
 customer_id	product_id	amount
-1			      1			      1000
-1			3			2000
-1			5			1500
-2			2			3000
-2			6			2000
+1		1			1000
+1		3			2000
+1		5			1500
+2		2			3000
+2		6			2000
 
 products Table:
 Column_Name			Type
