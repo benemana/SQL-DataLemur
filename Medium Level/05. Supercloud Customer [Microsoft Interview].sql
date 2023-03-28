@@ -26,12 +26,12 @@ product_name		string
 
 products Example Input:
 product_id	product_category	product_name
-1			Analytics			Azure Databricks
-2			Analytics			Azure Stream Analytics
-4			Containers			Azure Kubernetes Service
-5			Containers			Azure Service Fabric	
-6			Compute				Virtual Machines		
-7			Compute				Azure Functions
+1		Analytics		Azure Databricks
+2		Analytics		Azure Stream Analytics
+4		Containers		Azure Kubernetes Service
+5		Containers		Azure Service Fabric	
+6		Compute			Virtual Machines		
+7		Compute			Azure Functions
 
 
 My solution:*/
